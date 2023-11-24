@@ -1,1 +1,7 @@
 Разница в файле human. В мастере больше деталей у человечка.
+Коммитов 4 + этот. Их названия:
+heat added
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+added hometask.txt
+и название коммита который загрузит этот файл edited hometask.txt
